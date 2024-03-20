@@ -10,7 +10,7 @@ ZORK III: The Dungeon Master draws you into the deepest and most mysterious reac
 In this test of wisdom and courage, you will face countless dangers. But what awaits you at the culmination of your odyssey is well worth risking all.
 
 ## Examples 
-* "play zork 2"
+* "play zork 3"
 
 ## License and Source code
 
