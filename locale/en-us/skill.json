@@ -1,0 +1,23 @@
+{
+  "skill_id": "ovos-skill-zork3-game.jarbasai",
+  "source": "https://github.com/JarbasSkills/ovos-skill-zork3-game",
+  "package_name": "ovos-skill-zork3-game",
+  "extra_plugins": {
+    "core": [],
+    "PHAL": [],
+    "listener": [],
+    "audio": [],
+    "media": [],
+    "gui": []
+  },
+  "icon": "http://infocom.elsewhere.org/gallery/zork3/front.jpg",
+  "images": [],
+  "name": "Zork 3",
+  "description": "An old, oddly youthful man turns toward you slowly. His long, silver hair dances about him as a fresh breeze blows. \"You have reached the final test, my friend! You are proved clever and powerful, but this is not yet enough! Seek me when you feel yourself worthy!",
+  "examples": [
+    "play zork 2",
+    "save game",
+    "exit game"
+  ],
+  "tags": ["game", "adventure", "entertainment"]
+}
